@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PluralSight.Moq.Code
+namespace TeamCity.Code
 {
     public class CustomerService
     {

@@ -1,4 +1,4 @@
-﻿namespace PluralSight.Moq.Code
+﻿namespace TeamCity.Code
 {
     public class Address
     {

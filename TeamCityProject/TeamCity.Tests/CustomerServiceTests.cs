@@ -1,10 +1,10 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using System.Collections.Generic;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using NUnit.Framework;
-using PluralSight.Moq.Code;
-using System.Collections.Generic;
+using TeamCity.Code;
 
-namespace PluralSight.Moq.Tests
+namespace TeamCity.Tests
 {
     [TestFixture]
     public class CustomerServiceTests
