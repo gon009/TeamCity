@@ -59,5 +59,13 @@ namespace TeamCity.Tests
             mockCustomerRepository.Verify();
         }
 
+        [Test]
+        public void this_fail()
+        {
+           
+
+            Assert.AreEqual("Diego","Gonzalo");
+        }
+
     }
 }
